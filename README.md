@@ -1,6 +1,5 @@
 # Teamway
 
-
 Build a REST application from scratch that could serve as a work planning service.
 
 
@@ -39,3 +38,8 @@ Business requirements:
 #### Run Test
 
     python manage.py test
+
+
+### ER Diagram
+
+<img width="737" alt="Screenshot 2022-04-15 at 4 23 09 AM" src="https://user-images.githubusercontent.com/8246823/163490415-c02bcfcc-b640-4bfc-9ea9-39ca8f80ba97.png">
